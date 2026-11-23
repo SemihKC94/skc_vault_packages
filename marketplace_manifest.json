@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T18:43:00Z",
+  "updatedAt": "2026-11-23T19:12:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -403,6 +403,181 @@
           "sourceUrl": "https://docs.unity3d.com/Packages/com.unity.collections@latest"
         }
       ]
+    },
+    {
+      "id": "asset.keviniglesias.human_melee_animations",
+      "title": "Human Melee Animations",
+      "publisher": "Kevin Iglesias",
+      "category": "3D Models",
+      "tags": [
+        "Animations",
+        "Humanoid",
+        "Combat",
+        "Melee",
+        "Sword",
+        "Shield",
+        "Spear",
+        "Fighting",
+        "Blender",
+        "RootMotion"
+      ],
+      "version": "2.0.2",
+      "unityVersion": "2020.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 178909799,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Human.Melee.Animations.v2.0.2.unitypackage",
+      "detectionPath": "Assets/Kevin Iglesias/Human Animations",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/animations/human-melee-animations-151650",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/62fe758a-6b0f-4ef2-b14f-023e83990984.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2b461d21-ae55-4859-9520-6dda601e8751.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/62fe758a-6b0f-4ef2-b14f-023e83990984.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/8592b067-4363-4967-92ee-75f3f0551e8d_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/af958a58-7958-4b8f-aff6-0264bf48dfe1_scaled.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=yVVvo1iNrYU",
+      "directVideoMp4": "",
+      "shortDescription": "A comprehensive collection of 310 humanoid 3D melee combat animations. Includes one-handed, two-handed, polearm, and shield combat styles with both masculine and feminine animation variants.",
+      "features": [
+        "310 Humanoid 3D animation files for melee weapon combat",
+        "One-handed weapons, two-handed greatswords/axes, polearms, and shields",
+        "Includes full combat sets: attacks, combos, parry, block, dodge, stun, damage, and death",
+        "Complete movement suite: walk, run, sprint, strafe, and rotations (Root motion & In-place)",
+        "Each animation provided in both masculine and feminine styles",
+        "Includes Avatar Masks and Blender animation source files"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.wemakethegame.gruesome_zombie_animset",
+      "title": "Gruesome Zombie AnimSet",
+      "publisher": "wemakethegame",
+      "category": "3D Models",
+      "tags": [
+        "Animations",
+        "Zombie",
+        "Horror",
+        "Survival",
+        "Undead",
+        "Monster",
+        "Combat",
+        "Humanoid",
+        "RootMotion"
+      ],
+      "version": "1.2.0",
+      "unityVersion": "2020.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 271657904,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Gruesome.Zombie.Anim.Set.v1.2.unitypackage",
+      "detectionPath": "Assets/Gruesome_Zombie_AnimSet",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/animations/gruesome-zombie-animset-177555",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c3caff17-77e9-47a4-abf3-223a6a351008.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c3caff17-77e9-47a4-abf3-223a6a351008.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/c3caff17-77e9-47a4-abf3-223a6a351008.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/6b79d08c-5fbd-4861-8957-b6fff98f76fa_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/d9745d77-1067-4314-8989-7216c01dd67c_scaled.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=hncuhbIajCE",
+      "directVideoMp4": "",
+      "shortDescription": "A horror and survival themed animation pack featuring 48+ dynamic keyframe animations tailored for gruesome zombies, undead creatures, and victim interactions.",
+      "features": [
+        "48+ Dynamic keyframe humanoid animations designed for undead monsters and zombies",
+        "Zombie attacks, screams, rebirth, hit reactions, and death animations",
+        "Paired bite attack interactions with synchronized victim animations",
+        "19 Movement animations including crawling, limping, and aggressive running",
+        "Both Root motion and In-place motion included for every movement clip",
+        "Humanoid Mecanim compatibility with T-pose included"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.5778k.gui_battle_royale",
+      "title": "GUI Battle Royale",
+      "publisher": "5 778 K",
+      "category": "2D & UI",
+      "tags": [
+        "2D",
+        "UI",
+        "GUI",
+        "BattleRoyale",
+        "Icons",
+        "Emoji",
+        "Buttons",
+        "Popups",
+        "PSD",
+        "MobileReady"
+      ],
+      "version": "1.0.0",
+      "unityVersion": "2018.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 275782715,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/GUI.Battle.Royale.unitypackage",
+      "detectionPath": "Assets/Gui Battle Royale",
+      "storeUrl": "https://assetstore.unity.com/packages/2d/gui/icons/gui-battle-royale-144224",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/546413c4-63c7-4e49-9261-b92b4c9897b9.png",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2743854b-6d4f-40b2-845e-176fdd9343b9.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/2743854b-6d4f-40b2-845e-176fdd9343b9.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/05b1d6ad-e602-4b42-946d-0106c23e3df1_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/6b3f53bc-a996-4776-991d-e9d0a71b51b5_scaled.jpg"
+      ],
+      "videoUrl": "",
+      "directVideoMp4": "",
+      "shortDescription": "A complete customizable Battle Royale style 2D game user interface pack with PSD and PNG assets. Includes 27 UI screen templates, 50 emojis, 110+ items, and 100+ UI components.",
+      "features": [
+        "27 Complete screen scene templates with layered PSD and sliced PNG files",
+        "50 Customizable emoji illustrations in PSD and PNG format",
+        "Over 110 customizable game item icons (weapons, armor, backpacks, medical supplies)",
+        "Over 100 modular interface elements (buttons, pop-ups, backgrounds, progress bars, player cards)",
+        "Battle Royale / Military survival themed vector-quality UI styling",
+        "Ready-to-use Unity UI prefabs and canvas configurations"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.wmanimset.ghostsamurai_bundle",
+      "title": "GhostSamurai_Bundle",
+      "publisher": "WM_Animset",
+      "category": "3D Models",
+      "tags": [
+        "Animations",
+        "Samurai",
+        "Katana",
+        "Bow",
+        "Ninja",
+        "Sword",
+        "Combat",
+        "Execution",
+        "Humanoid",
+        "RootMotion"
+      ],
+      "version": "1.0.0",
+      "unityVersion": "2018.4+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 1446661148,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/GhostSamurai_Bundle.v1.0.unitypackage",
+      "detectionPath": "Assets/GhostSamurai_Animset",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/animations/ghostsamurai-bundle-197971",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6ca4aca4-8b9f-4011-8a30-9fd12af0fa97.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/93c3e728-87cb-4b53-a710-445ffb0283fc.png",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/6ca4aca4-8b9f-4011-8a30-9fd12af0fa97.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/eef8a092-1783-49e7-9366-79e060fc49fb_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/2af315c3-6b25-49fe-9db5-4a426c44ae14_scaled.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=-amOqze4ml0",
+      "directVideoMp4": "",
+      "shortDescription": "A massive samurai combat animation pack featuring 500+ humanoid animations for Katana and Bow warfare. Includes execution kills, parries, deflects, stealth movements, and weapon meshes.",
+      "features": [
+        "Over 500+ High-detail AAA samurai and ninja combat animations",
+        "Katana Combat suite: 51 battle strikes, 45 defenses, 30 deflects, 19 dodges, and 23 execution finishers",
+        "Bow Combat suite: 66 archery attacks, 58 movement animations, 28 crouch actions, and hit reactions",
+        "Both In-place and Root Motion versions provided for all movements",
+        "Humanoid Mecanim rig compatible with Mixamo retargeting and AddMask support",
+        "Includes Katana, Scabbard, and Bow 3D weapon meshes ready for Weapon_r and Weapon_l sockets"
+      ],
+      "dependencies": []
     }
   ]
 }
