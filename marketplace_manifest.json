@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T17:52:00Z",
+  "updatedAt": "2026-11-23T17:58:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -231,6 +231,59 @@
           "version": "12.0+",
           "detectionPath": "Packages/com.unity.render-pipelines.universal",
           "reason": "Required for URP ShaderGraph materials and lighting.",
+          "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
+    },
+    {
+      "id": "asset.hovlstudio.epic_toon_vfx_2",
+      "title": "Epic Toon VFX 2",
+      "publisher": "Hovl Studio",
+      "category": "VFX & Particles",
+      "tags": [
+        "VFX",
+        "Particles",
+        "Toon",
+        "Stylized",
+        "Magic",
+        "Spells",
+        "Combat",
+        "SFX",
+        "URP",
+        "ShaderGraph"
+      ],
+      "version": "2.0.0",
+      "unityVersion": "2020.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 86088558,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Epic.Toon.VFX.2.v1.3.5f2b9072.unitypackage",
+      "detectionPath": "Assets/Hovl Studio/Epic Toon VFX 2",
+      "storeUrl": "https://assetstore.unity.com/packages/vfx/particles/spells/epic-toon-vfx-2-157651",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6d2e26c0-2ea6-4b36-b301-e8b584035cff.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a210404d-fc34-4941-9358-ac10ec750c29.png",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/03d9258b-0978-4fb6-bfa4-49e5bab6af2f.webp",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/86fef4df-62eb-4752-b708-0237989332c1.webp",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/743d5b8d-2a57-4eab-8f54-9ea6b82203e4.webp"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=9tNqEOVdjt0",
+      "directVideoMp4": "",
+      "shortDescription": "A collection of 10 stylized, high-quality AAA toon particle effects with custom SFX. All effects are game-ready prefabs that can be easily resized, recolored, and re-timed across BiRP, URP, and HDRP.",
+      "features": [
+        "10 Complete stylized AAA toon effect prefabs",
+        "Custom sound effects (SFX) included for all effects",
+        "Universal Render Pipeline (URP), Built-in (BiRP), and HDRP support",
+        "Easily customizable: quick re-sizing, re-timing, and re-coloring",
+        "High-resolution textures ranging from 256x128 to 2048x2048",
+        "Game-ready drag-and-drop prefabs suitable for PC, Console, and high-end platforms"
+      ],
+      "dependencies": [
+        {
+          "id": "com.unity.render-pipelines.universal",
+          "name": "Universal Render Pipeline (URP)",
+          "version": "12.0+",
+          "detectionPath": "Packages/com.unity.render-pipelines.universal",
+          "reason": "Required for URP particle shaders and material rendering.",
           "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
         }
       ]
