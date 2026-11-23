@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T15:48:00Z",
+  "updatedAt": "2026-11-23T17:52:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -177,6 +177,60 @@
           "version": "12.0+",
           "detectionPath": "Packages/com.unity.render-pipelines.universal",
           "reason": "Required for URP Lit materials and underwater scene rendering.",
+          "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
+    },
+    {
+      "id": "asset.alexlenk.advanced_people_pack_2",
+      "title": "Advanced People Pack 2",
+      "publisher": "Alex Lenk",
+      "category": "3D Models",
+      "tags": [
+        "3D",
+        "Characters",
+        "Humanoids",
+        "Humans",
+        "Modular",
+        "Customization",
+        "Blendshapes",
+        "Mecanim",
+        "URP",
+        "MobileReady"
+      ],
+      "version": "2.8.4.4",
+      "unityVersion": "2022.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 197872702,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Advanced.People.Pack.2.v2.8.4.4.04.Nov.2025.unitypackage",
+      "detectionPath": "Assets/AdvancedPeopleSystem2",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/characters/humanoids/humans/advanced-people-pack-2-170756",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d92e65d0-9cce-4a57-bba6-286eeed290de.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e60f1379-00e6-4ca1-bf59-3e718c40cf5f.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/d92e65d0-9cce-4a57-bba6-286eeed290de.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/29f6ad59-117a-42b6-91e6-5830e726ee0b_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/a7fa47f6-b4fb-4ae5-9aed-5c5b1aec6eca_scaled.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=g_LT73oYaZ0",
+      "directVideoMp4": "",
+      "shortDescription": "A flexible and advanced modular character customization system for creating unique male and female characters. Features 120+ modular outfits, face & body blendshapes, mesh combiner, color changers, and full URP/HDRP support.",
+      "features": [
+        "Over 120+ modular clothing and outfit items with custom icons",
+        "Deep face and body customization powered by blendshapes",
+        "Integrated mesh combiner and LOD generation for optimized draw calls",
+        "In-editor and runtime character generator with save/load presets",
+        "Universal Render Pipeline (URP), HDRP, and Built-in Render Pipeline presets",
+        "Mecanim Humanoid rig fully compatible with Mixamo and custom animations",
+        "Full RGB color customization for skin, hair, eyes, and clothing palettes"
+      ],
+      "dependencies": [
+        {
+          "id": "com.unity.render-pipelines.universal",
+          "name": "Universal Render Pipeline (URP)",
+          "version": "12.0+",
+          "detectionPath": "Packages/com.unity.render-pipelines.universal",
+          "reason": "Required for URP ShaderGraph materials and lighting.",
           "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
         }
       ]
