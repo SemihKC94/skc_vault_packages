@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.1.0",
+  "updatedAt": "2026-11-23T13:45:00Z",
+  "categories": [
+    "All",
+    "3D Models",
+    "VFX & Particles",
+    "Shaders & Materials",
+    "2D & UI",
+    "Audio & SFX",
+    "Tools & Systems"
+  ],
+  "items": [
+    {
+      "id": "asset.synty.polygon_military",
+      "title": "POLYGON Military - Low Poly 3D Art",
+      "publisher": "Synty Studios",
+      "category": "3D Models",
+      "tags": [
+        "LowPoly",
+        "Military",
+        "Weapons",
+        "Vehicles",
+        "Characters",
+        "PBR",
+        "MobileReady"
+      ],
+      "version": "1.4.0",
+      "unityVersion": "2022.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 503316480,
+      "downloadUrl": "https://github.com/SemihKC94/skc-unity-plugins/releases/download/v1.0.0/SKC.FPS.unitypackage",
+      "detectionPath": "Assets/SyntyStudios/PolygonMilitary",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/environments/historic/polygon-military-low-poly-3d-art-by-synty-176395",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=400&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1200&q=80",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&q=80",
+        "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&q=80",
+        "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "directVideoMp4": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "shortDescription": "A low-poly military asset pack containing modular characters, weapons, vehicles, and military base structures. Built with high-performance mobile-ready assets and Universal Render Pipeline (URP) materials.",
+      "features": [
+        "285 Unique modular environment, weapon, and vehicle prefabs",
+        "Mecanim Humanoid rigged armatures with modular weapon sockets",
+        "Universal Render Pipeline (URP) & Built-in Render Pipeline presets",
+        "Substance-calibrated PBR textures with diffuse and emission maps",
+        "Full interactive selection and clean uninstall support"
+      ],
+      "dependencies": [
+        {
+          "id": "edm4u",
+          "name": "External Dependency Manager (EDM4U)",
+          "version": "1.2.189+",
+          "detectionPath": "Assets/ExternalDependencyManager",
+          "reason": "Required for resolving iOS CocoaPods and Android Gradle native plugins.",
+          "sourceUrl": "https://github.com/googlesamples/unity-jar-resolver"
+        },
+        {
+          "id": "com.unity.render-pipelines.universal",
+          "name": "Universal Render Pipeline (URP)",
+          "version": "14.0+",
+          "detectionPath": "Packages/com.unity.render-pipelines.universal",
+          "reason": "Required for PBR military shaders, lighting models, and material rendering.",
+          "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
+    }
+  ]
+}
