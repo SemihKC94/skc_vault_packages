@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T17:58:00Z",
+  "updatedAt": "2026-11-23T18:43:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -285,6 +285,122 @@
           "detectionPath": "Packages/com.unity.render-pipelines.universal",
           "reason": "Required for URP particle shaders and material rendering.",
           "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
+    },
+    {
+      "id": "asset.placeholderinc.fantasy_ui_sfx_lite",
+      "title": "Fantasy User Interface Sounds - Lite Edition",
+      "publisher": "PlaceHolder Inc",
+      "category": "Audio & SFX",
+      "tags": [
+        "Audio",
+        "SFX",
+        "UI",
+        "Fantasy",
+        "Medieval",
+        "Interface",
+        "Buttons",
+        "Clicks",
+        "Coins",
+        "Magic",
+        "Crafting"
+      ],
+      "version": "2.0.0",
+      "unityVersion": "2021.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 54925004,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Fantasy.User.Interface.Sounds.-.Lite.Edition.v2.0.unitypackage",
+      "detectionPath": "Assets/Fantasy UI SFX - Lite Edition",
+      "storeUrl": "https://assetstore.unity.com/packages/audio/sound-fx/fantasy-user-interface-sounds-lite-edition-272919",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e8f3c749-c996-4afa-95d6-b3dd50789bb6.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb1c3e9c-135a-4df7-b891-3c59047d1b60.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/e8f3c749-c996-4afa-95d6-b3dd50789bb6.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb1c3e9c-135a-4df7-b891-3c59047d1b60.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=SKeV1Xyw7cs",
+      "directVideoMp4": "",
+      "shortDescription": "A versatile collection of 210 original high-quality UI sound effects designed for fantasy, medieval, and casual RPG games. Includes clicks, magical tones, coins, alchemy, crafting, weapons, and armor.",
+      "features": [
+        "210 High-quality original UI sound effect files (.wav, 44.1 kHz, 16-bit, stereo)",
+        "Clicks, buttons, and responsive medieval interface elements",
+        "Magical textures and spellcasting interface sounds",
+        "Inventory audio: bags, coins, potion bottles, books, and page turns",
+        "Crafting sounds: blacksmithing, sawing, nailing, and alchemy",
+        "Weapons, armor equip/unequip, and dice roll sounds"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.christianschott.fluid_flow_2",
+      "title": "Fluid Flow 2",
+      "publisher": "Christian Schott",
+      "category": "Tools & Systems",
+      "tags": [
+        "Tools",
+        "Simulation",
+        "Fluid",
+        "Decals",
+        "Painting",
+        "GPU",
+        "Blood",
+        "Water",
+        "Burst",
+        "Jobs",
+        "URP",
+        "ShaderGraph"
+      ],
+      "version": "2.3.0",
+      "unityVersion": "2020.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 21418632,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Fluid_Flow_2_v2.3.unitypackage",
+      "detectionPath": "Assets/FluidFlow",
+      "storeUrl": "https://assetstore.unity.com/packages/package/143786",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4c941190-466d-494a-98b6-e20502f9e1ab.jpg",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ad401dc4-88b9-4d0c-b2f9-0c2484275e2f.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/4c941190-466d-494a-98b6-e20502f9e1ab.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/dd7cf48f-3570-4017-b33e-0b0165581e77_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/0a088c31-634e-4970-8613-75c94d52bd93_scaled.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=JKnUCt_gao8",
+      "directVideoMp4": "",
+      "shortDescription": "A real-time GPU-accelerated fluid painting and flow simulation system. Paint blood, paint, water, or other fluids onto meshes or skinned renderers and simulate dynamic surface flow across UV seams.",
+      "features": [
+        "Real-time GPU texture-based and particle-based surface fluid flow simulation",
+        "3D texture painting and dynamic decals on static and skinned mesh renderers",
+        "Flow dynamically reacts to gravity maps, normal maps, and mesh deformation",
+        "Seamless simulation across UV seams with automated UV seam artifact fixes",
+        "Fluid effects including evaporation, soaking, and blur",
+        "High-performance C# Jobs and Burst compiler optimization with zero GC alloc",
+        "Compatible with all render pipelines (Built-in, Universal RP, and HDRP)"
+      ],
+      "dependencies": [
+        {
+          "id": "com.unity.burst",
+          "name": "Burst Compiler",
+          "version": "1.8.0+",
+          "detectionPath": "Packages/com.unity.burst",
+          "reason": "Required for high-performance fluid simulation jobs compiling to native code.",
+          "sourceUrl": "https://docs.unity3d.com/Packages/com.unity.burst@latest"
+        },
+        {
+          "id": "com.unity.mathematics",
+          "name": "Unity Mathematics",
+          "version": "1.2.0+",
+          "detectionPath": "Packages/com.unity.mathematics",
+          "reason": "Required for SIMD vector and matrix calculations in fluid solvers.",
+          "sourceUrl": "https://docs.unity3d.com/Packages/com.unity.mathematics@latest"
+        },
+        {
+          "id": "com.unity.collections",
+          "name": "Unity Collections",
+          "version": "1.4.0+",
+          "detectionPath": "Packages/com.unity.collections",
+          "reason": "Required for unmanaged native containers used by simulation jobs.",
+          "sourceUrl": "https://docs.unity3d.com/Packages/com.unity.collections@latest"
         }
       ]
     }
