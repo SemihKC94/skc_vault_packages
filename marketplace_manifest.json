@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T14:38:00Z",
+  "updatedAt": "2026-11-23T15:48:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -125,60 +125,61 @@
           "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
         }
       ]
-    }{
-  "id": "asset.layerlab.3d_characters_fish",
-  "title": "3D Characters - Fish",
-  "publisher": "Layer Lab",
-  "category": "3D Models",
-  "tags": [
-    "LowPoly",
-    "Casual",
-    "Fish",
-    "Animals",
-    "Characters",
-    "Creatures",
-    "Underwater",
-    "Sea",
-    "Ocean",
-    "Animated",
-    "Props",
-    "URP",
-    "MobileReady"
-  ],
-  "version": "1.0.0",
-  "unityVersion": "2021.3+",
-  "priceType": "Purchased",
-  "fileSizeBytes": 16137749,
-  "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/3D.Characters-Fish.1.0.-.SCore.unitypackage",
-  "detectionPath": "Assets/Layer Lab/3D Characters-Fish",
-  "storeUrl": "https://assetstore.unity.com/packages/3d/characters/animals/fish/3d-characters-fish-282104",
-  "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0d218daa-68b2-466f-a8c5-30142f4ac7da.webp",
-  "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0d218daa-68b2-466f-a8c5-30142f4ac7da.webp",
-  "screenshots": [
-    "https://assetstorev1-prd-cdn.unity3d.com/key-image/0d218daa-68b2-466f-a8c5-30142f4ac7da.webp",
-    "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/0fd23476-21bc-422f-81b4-ef6139bb9fb6.webp"
-  ],
-  "videoUrl": "https://www.youtube.com/watch?v=OOzC3r0pBCo",
-  "directVideoMp4": "",
-  "shortDescription": "A low-poly stylized casual 3D prop and fish character modeling pack for casual, arcade, and aquarium games. Contains 152 total FBX items (98 fish models, 54 underwater props), 7 animations, atlas textures, and full Universal Render Pipeline (URP) support.",
-  "features": [
-    "152 Total FBX items: 98 Fish character models and 54 underwater props",
-    "152 Ready-to-use prefabs configured with materials and colliders",
-    "7 Included animations for natural swimming, idle, and interaction states",
-    "Universal Render Pipeline (URP) and Built-in Render Pipeline material presets",
-    "Optimized single Atlas texture and lightweight low-poly meshes for high mobile performance",
-    "Includes Demo, PartsAll, and Screenshot showcase scenes with FreeSwimming script controller"
-  ],
-  "dependencies": [
+    },
     {
-      "id": "com.unity.render-pipelines.universal",
-      "name": "Universal Render Pipeline (URP)",
-      "version": "12.0+",
-      "detectionPath": "Packages/com.unity.render-pipelines.universal",
-      "reason": "Required for URP Lit materials and underwater scene rendering.",
-      "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+      "id": "asset.layerlab.3d_characters_fish",
+      "title": "3D Characters - Fish",
+      "publisher": "Layer Lab",
+      "category": "3D Models",
+      "tags": [
+        "LowPoly",
+        "Casual",
+        "Fish",
+        "Animals",
+        "Characters",
+        "Creatures",
+        "Underwater",
+        "Sea",
+        "Ocean",
+        "Animated",
+        "Props",
+        "URP",
+        "MobileReady"
+      ],
+      "version": "1.0.0",
+      "unityVersion": "2021.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 16137749,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/3D.Characters-Fish.1.0.-.SCore.unitypackage",
+      "detectionPath": "Assets/Layer Lab/3D Characters-Fish",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/characters/animals/fish/3d-characters-fish-282104",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0d218daa-68b2-466f-a8c5-30142f4ac7da.webp",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0d218daa-68b2-466f-a8c5-30142f4ac7da.webp",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/0d218daa-68b2-466f-a8c5-30142f4ac7da.webp",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/0fd23476-21bc-422f-81b4-ef6139bb9fb6.webp"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=OOzC3r0pBCo",
+      "directVideoMp4": "",
+      "shortDescription": "A low-poly stylized casual 3D prop and fish character modeling pack for casual, arcade, and aquarium games. Contains 152 total FBX items (98 fish models, 54 underwater props), 7 animations, atlas textures, and full Universal Render Pipeline (URP) support.",
+      "features": [
+        "152 Total FBX items: 98 Fish character models and 54 underwater props",
+        "152 Ready-to-use prefabs configured with materials and colliders",
+        "7 Included animations for natural swimming, idle, and interaction states",
+        "Universal Render Pipeline (URP) and Built-in Render Pipeline material presets",
+        "Optimized single Atlas texture and lightweight low-poly meshes for high mobile performance",
+        "Includes Demo, PartsAll, and Screenshot showcase scenes with FreeSwimming script controller"
+      ],
+      "dependencies": [
+        {
+          "id": "com.unity.render-pipelines.universal",
+          "name": "Universal Render Pipeline (URP)",
+          "version": "12.0+",
+          "detectionPath": "Packages/com.unity.render-pipelines.universal",
+          "reason": "Required for URP Lit materials and underwater scene rendering.",
+          "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
     }
-  ]
-}
   ]
 }
