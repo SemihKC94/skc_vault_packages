@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T13:45:00Z",
+  "updatedAt": "2026-11-23T14:38:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -65,6 +65,63 @@
           "version": "14.0+",
           "detectionPath": "Packages/com.unity.render-pipelines.universal",
           "reason": "Required for PBR military shaders, lighting models, and material rendering.",
+          "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
+    },
+    {
+      "id": "asset.sinevfx.volumetric_3d_lasers",
+      "title": "Volumetric 3D Lasers",
+      "publisher": "SineVFX",
+      "category": "VFX & Particles",
+      "tags": [
+        "VFX",
+        "Laser",
+        "Beam",
+        "Magic",
+        "Shader",
+        "Fire",
+        "Plasma",
+        "SciFi",
+        "Volumetric",
+        "Particles",
+        "Distortion",
+        "URP",
+        "MobileReady"
+      ],
+      "version": "1.2.0",
+      "unityVersion": "2021.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 172337481,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Volumetric.3D.Lasers.1.2.-.SCore.unitypackage",
+      "detectionPath": "Assets/SineVFX/Volumetric3DLasers",
+      "storeUrl": "https://assetstore.unity.com/packages/vfx/particles/spells/volumetric-3d-lasers-90382",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/de50ae06-64e0-4a01-aa98-0ea2bc92734d.webp",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/de50ae06-64e0-4a01-aa98-0ea2bc92734d.webp",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/de50ae06-64e0-4a01-aa98-0ea2bc92734d.webp",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/80012d7a-51c5-4edf-9576-0327acebb605.webp",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/fbe5918d-43fb-4f4e-8892-effeda12ce4e.webp"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=jVpVXbh5teE",
+      "directVideoMp4": "",
+      "shortDescription": "Customizable Volumetric 3D Laser System. It will fit perfectly almost in any game, stylized or realistic. All parts and layers of lasers can be tweaked as you like with tons of properties to create unique effects, plus custom particle explosions and distortions.",
+      "features": [
+        "Complete Volumetric 3D Laser system with true 3D depth from any camera angle",
+        "Customizable laser layers: vertex offset, noise distortion, tiling, and color grading",
+        "Universal Render Pipeline (URP) and Built-in Render Pipeline dual compatibility",
+        "Dynamic start and end point impact effects (sparks, explosions, black hole vortex, and flames)",
+        "Screen-space normal refraction & distortion particle shaders (SampleSceneColor / GrabPass)",
+        "Mobile, Gamma, and Desktop optimized complete effect prefabs",
+        "Dual input system support (Legacy Input Manager & New Input System Package)"
+      ],
+      "dependencies": [
+        {
+          "id": "com.unity.render-pipelines.universal",
+          "name": "Universal Render Pipeline (URP)",
+          "version": "12.0+",
+          "detectionPath": "Packages/com.unity.render-pipelines.universal",
+          "reason": "Required for URP shader passes, SRP Batcher performance, and Scene Color / Depth distortion textures.",
           "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
         }
       ]
