@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1.0",
-  "updatedAt": "2026-11-23T19:12:00Z",
+  "updatedAt": "2026-11-24T12:52:00Z",
   "categories": [
     "All",
     "3D Models",
@@ -578,6 +578,188 @@
         "Includes Katana, Scabbard, and Bow 3D weapon meshes ready for Weapon_r and Weapon_l sockets"
       ],
       "dependencies": []
+    },
+    {
+      "id": "asset.skc.low_poly_vegetation_kit",
+      "title": "Low Poly Vegetation Kit",
+      "publisher": "Indie Vault",
+      "category": "3D Models",
+      "tags": [
+        "LowPoly",
+        "Vegetation",
+        "Trees",
+        "Rocks",
+        "Foliage",
+        "Nature",
+        "Environment",
+        "Stylized",
+        "MobileReady"
+      ],
+      "version": "1.0.0",
+      "unityVersion": "2021.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 52104103,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Low.Poly.Vegetation.Kit.v1.0.unitypackage",
+      "detectionPath": "Assets/Low Poly Vegetation Kit",
+      "storeUrl": "",
+      "thumbnailUrl": "https://i.ibb.co/3ybr5DNp/Screenshot-2026-11-24-at-10-48-10.png",
+      "bannerUrl": "https://i.ibb.co/3ybr5DNp/Screenshot-2026-11-24-at-10-48-10.png",
+      "screenshots": [
+        "https://i.ibb.co/3ybr5DNp/Screenshot-2026-11-24-at-10-48-10.png",
+        "https://i.ibb.co/0pZJHFrS/Screenshot-2026-11-24-at-10-48-34.png",
+        "https://i.ibb.co/9QLVVHP/Screenshot-2026-11-24-at-10-48-56.png"
+      ],
+      "videoUrl": "",
+      "directVideoMp4": "",
+      "shortDescription": "A versatile low-poly nature and vegetation environment kit featuring 44 modular prefabs including trees, small rocks, terrain textures, and pre-built demonstration scenes.",
+      "features": [
+        "44 Modular low-poly nature prefabs including trees, rocks, and ground vegetation",
+        "Includes 2 pre-composed showcase demonstration scenes (Scene 1 and Scene 2)",
+        "Custom terrain textures and stylized color palette materials",
+        "Lightweight low-poly topology optimized for mobile, VR, and PC performance",
+        "Clean prefab hierarchy and material setup for rapid level design"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.skc.lowpoly_style_forest_environment",
+      "title": "Lowpoly Style - Forest Environment",
+      "publisher": "Lowpoly Style",
+      "category": "3D Models",
+      "tags": [
+        "LowPoly",
+        "Forest",
+        "Environment",
+        "Nature",
+        "Trees",
+        "Rocks",
+        "Campfire",
+        "Stylized",
+        "MobileReady"
+      ],
+      "version": "1.1.0",
+      "unityVersion": "2020.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 28137365,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Lowpoly.Style.Forest.Environment.v1.1.unitypackage",
+      "detectionPath": "Assets/Lowpoly Style",
+      "storeUrl": "",
+      "thumbnailUrl": "https://i.ibb.co/7T5bXq8/Screenshot-2026-11-24-at-12-21-28.png",
+      "bannerUrl": "https://i.ibb.co/7T5bXq8/Screenshot-2026-11-24-at-12-21-28.png",
+      "screenshots": [
+        "https://i.ibb.co/7T5bXq8/Screenshot-2026-11-24-at-12-21-28.png",
+        "https://i.ibb.co/20MD8kDn/Screenshot-2026-11-24-at-12-22-01.png",
+        "https://i.ibb.co/3GgVD6X/Screenshot-2026-11-24-at-12-22-35.png"
+      ],
+      "videoUrl": "",
+      "directVideoMp4": "",
+      "shortDescription": "A stylized low-poly forest environment package containing 33 nature and camp props, rocks, vegetation, interactive campfire, and a pre-configured forest demo scene.",
+      "features": [
+        "33 Modular low-poly forest assets: trees, flowers, rocks, reeds, and camp props",
+        "Includes interactive Campfire prefab with light flicker script (FlickerLight.cs)",
+        "Pre-assembled forest showcase demonstration scene (Forest.unity)",
+        "Atlas texture and shared material setup for minimal draw call overhead",
+        "Mobile and indie game ready with clean low-polygon meshes"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.motioncast.kung_fu_animations_vol1",
+      "title": "Kung-Fu animations (Motion Cast#06 Vol.1)",
+      "publisher": "Motion Cast",
+      "category": "3D Models",
+      "tags": [
+        "Animations",
+        "KungFu",
+        "MartialArts",
+        "Combat",
+        "Fighting",
+        "Mocap",
+        "Humanoid",
+        "Punches",
+        "Kicks",
+        "RootMotion"
+      ],
+      "version": "1.0.0",
+      "unityVersion": "2019.4+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 242050588,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Kung-Fu.animations.Motion.Cast06.Vol1.unitypackage",
+      "detectionPath": "Assets/Motion Cast#06 - Vol.1",
+      "storeUrl": "https://assetstore.unity.com/packages/3d/animations/kung-fu-animations-motion-cast-06-vol-1-223826",
+      "thumbnailUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/db7974f9-a8d1-41e3-a67a-f97291739f9c.png",
+      "bannerUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a2886de2-5432-4d03-a8cc-3cabad839984.jpg",
+      "screenshots": [
+        "https://assetstorev1-prd-cdn.unity3d.com/key-image/a2886de2-5432-4d03-a8cc-3cabad839984.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/c913c653-911c-4008-9189-be5974ed48e0_scaled.jpg",
+        "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/d1d91855-a358-4ddf-8d71-e3927d795a89_scaled.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=t09o-Ss_lH0",
+      "directVideoMp4": "",
+      "shortDescription": "An authentic motion-captured Kung-Fu moveset containing 144 animation clips across 43 unique martial arts actions. Features punches, kicks, holds, and omnidirectional dodges performed by a real Kung-Fu practitioner.",
+      "features": [
+        "144 Total animation clips (FBX format, 30 FPS mocap retouched manually)",
+        "43 Unique combat movements with 2 to 5 take variations per movement",
+        "20 Punch attacks and combinations",
+        "20 Dynamic kick attacks",
+        "7 Dodge and dash animations in all 360-degree directions",
+        "2 Combat idle and 2 grappling hold animations",
+        "Standard Humanoid rig compatibility and included controller demo scene"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "asset.redworks.low_poly_christmas_pack",
+      "title": "Low Poly Christmas Pack",
+      "publisher": "RedWorks",
+      "category": "3D Models",
+      "tags": [
+        "LowPoly",
+        "Christmas",
+        "Holiday",
+        "Winter",
+        "Snow",
+        "Shops",
+        "Animals",
+        "Characters",
+        "URP",
+        "MobileReady"
+      ],
+      "version": "1.0.1",
+      "unityVersion": "2021.3+",
+      "priceType": "Purchased",
+      "fileSizeBytes": 40716341,
+      "downloadUrl": "https://github.com/SemihKC94/skc_vault_packages/releases/download/v1.0.0/Low.Poly.Christmas.Pack.v1.01.Repack.URP.unitypackage",
+      "detectionPath": "Assets/RedWorks - LP Christmas Pack",
+      "storeUrl": "",
+      "thumbnailUrl": "https://i.ibb.co/7xFcvB25/Screenshot-2026-11-24-at-12-28-45.png",
+      "bannerUrl": "https://i.ibb.co/7xFcvB25/Screenshot-2026-11-24-at-12-28-45.png",
+      "screenshots": [
+        "https://i.ibb.co/7xFcvB25/Screenshot-2026-11-24-at-12-28-45.png",
+        "https://i.ibb.co/pvVmjfrk/Screenshot-2026-11-24-at-12-28-58.png",
+        "https://i.ibb.co/svVWL60d/Screenshot-2026-11-24-at-12-29-12.png"
+      ],
+      "videoUrl": "",
+      "directVideoMp4": "",
+      "shortDescription": "A charming low-poly Christmas and winter village asset pack featuring 185 prefabs: modular shop houses, market stalls, holiday decorations, rigged winter animals (deer, penguin, fox), and snowmen with URP support.",
+      "features": [
+        "185 Modular low-poly winter and Christmas prefabs",
+        "Detailed market shops: Gift shop, Candle shop, Cookie bakery, Tree decoration shop",
+        "Rigged winter animals: Deer, Penguin, and Fox with animations",
+        "Snowman characters, festive streetlights, gifts, and holiday props",
+        "Includes 5 demo scenes: ChristmasMarketNightScene, ChristmasMarketDayScene, AssetGroupsScene, AnimationsScene, DemoScene",
+        "Universal Render Pipeline (URP) repack with optimized materials"
+      ],
+      "dependencies": [
+        {
+          "id": "com.unity.render-pipelines.universal",
+          "name": "Universal Render Pipeline (URP)",
+          "version": "12.0+",
+          "detectionPath": "Packages/com.unity.render-pipelines.universal",
+          "reason": "Required for URP Lit materials and winter lighting.",
+          "sourceUrl": "https://unity.com/srp/universal-render-pipeline"
+        }
+      ]
     }
   ]
 }
